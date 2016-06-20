@@ -1,0 +1,15 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 8E65-BD56
+
+ Directory of C:\Users\hardeb.CAV-SYSTEMS\Documents\Filename-Extractor
+
+06/20/2016  02:22 PM    <DIR>          .
+06/20/2016  02:22 PM    <DIR>          ..
+06/20/2016  02:22 PM                 0 directoryList.txt
+06/16/2016  01:25 PM            64,473 Example - MovieList.txt
+06/16/2016  01:25 PM            18,365 Filename Extractor.xlsm
+06/16/2016  02:11 PM             3,100 FilenameExtractor.bas
+06/16/2016  01:25 PM             1,300 ListDirectoryContents.bat
+06/16/2016  01:25 PM                78 README.md
+               6 File(s)         87,316 bytes
+               2 Dir(s)  207,123,070,976 bytes free
