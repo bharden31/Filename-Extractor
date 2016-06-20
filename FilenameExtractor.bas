@@ -22,8 +22,8 @@ Attribute VB_Name = "Module1"
 ' SOFTWARE.
 
 
-Sub ExtractFileNames()
-Attribute ExtractFileNames.VB_ProcData.VB_Invoke_Func = " \n14"
+Sub ExtractFilenames()
+Attribute ExtractFilenames.VB_ProcData.VB_Invoke_Func = " \n14"
     '
     ' Takes the output of "dir" performed on a directory, and formats it such that
     ' only the relavent filenames remain in alphabetical order
